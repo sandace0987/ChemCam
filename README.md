@@ -11,4 +11,4 @@ There are about 5 individual scenes:
 Every scene except the main page has a back button for ease of navigation.
 I designed the 3D assets using Microsoft Paint 3D. 
 
-Made by Sandeep and Pooja
+## Made by Sandeep and Pooja
